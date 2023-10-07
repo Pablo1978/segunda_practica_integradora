@@ -1,0 +1,102 @@
+[
+	{
+		"title": "Aireador de dos bocas",
+		"description": "Modelo OC-1000 , Potente y de excelentes prestaciones, 2 salidas, velocidad regulable, potencia 5 watts.",
+		"price": 3500,
+		"thumbnail": "img/id1.webp",
+		"category": "Acuario",
+		"code": 1215,
+		"stock": 10,
+		"id": 1
+	},
+	{
+		"title": "Pecera de 200 Litros",
+		"description": "Pecera Medidas 100x50x40 cm , Material de vidrio. Capacidad: 200 litros. Grosor vidrio: 6 mm. Refuerzos superiores: 2. Podes agregar la base de apoyo e Iluminadores de Leds (con luces blancas + azules) o bien para tubo de luz",
+		"price": 9000,
+		"thumbnail": "img/id2.png",
+		"category": "Acuario",
+		"code": 1225,
+		"stock": 4,
+		"id": 2
+	},
+	{
+		"title": "Piedras Difusoras",
+		"description": "Piedra difusora para aireador, importada de china, EXCELENTE CALIDAD. Medida : 2.5 cm x 1.5 cm. Se coloca en el extremo de la manguera del aireador, la función de la misma es generar micro burbujas de aire.",
+		"price": 250,
+		"thumbnail": "img/id3.png",
+		"category": "Acuario",
+		"code": 1235,
+		"stock": 100,
+		"id": 3
+	},
+	{
+		"title": "Filtro Cascada",
+		"description": "Filtro externo cascada Marina. Capacidad de 400 litros por hora. Material filtrante: Una placa con perlón, carbón activado y cerámicos biológicos, placa con perlón con zeolita. Filtro para peceras chicas, de hasta 37 litros, ideal para peces comunitarios o plantados. Se coloca colgado del lateral de la pecera.   Trabaja con bomba sumergible, más seguro ante corte de luz. Tiene un prefiltro, lo que retiene la mugre gruesa.",
+		"price": 6500,
+		"thumbnail": "img/id4.png",
+		"category": "Acuario",
+		"code": 1245,
+		"stock": 8,
+		"id": 4
+	},
+	{
+		"title": "Tratamiento para Peces",
+		"description": "Acriflavina Lomas, tratamiento contra enfermedades en piel y aletas. Solución bactericida para uso como preventivo y terapéutico. Contenido 30ml",
+		"price": 850,
+		"thumbnail": "img/id5.png",
+		"category": "Acuario",
+		"code": 1255,
+		"stock": 15,
+		"id": 5
+	},
+	{
+		"title": "Calentador de 60w",
+		"description": "Calentador Electrónico Sumergible, Potencia: 60 watts, con regulador automático de la temperatura deseada. Rango de trabajo: 20°C a 34°C. Mide aproximadamente 29 cm. El calefactor debe funcionar totalmente sumergido.",
+		"price": 4500,
+		"thumbnail": "img/id6.png",
+		"category": "Acuario",
+		"code": 1265,
+		"stock": 150,
+		"id": 6
+	},
+	{
+		"title": "Aireador de una boca",
+		"description": "Aireador Super X Classica, Compacto y silencioso, 1 salida con regulador de velocidad. Ideal para peceras chicas de hasta 50 litros",
+		"price": 2600,
+		"thumbnail": "img/id7.png",
+		"category": "Acuario",
+		"code": 1275,
+		"stock": 12,
+		"id": 7
+	},
+	{
+		"title": "Filtro interno",
+		"description": "Silencioso, Potente y Económico, Para acuario de hasta 120 litros. Capacidad Filtrante  880 litros/hora.  Incluye esponja de densidad especial para filtrado físico y biológico, el mismo debe funcionar totalmente sumergido",
+		"price": 4900,
+		"thumbnail": "img/id8.png",
+		"category": "Acuario",
+		"code": 1285,
+		"stock": 6,
+		"id": 8
+	},
+	{
+		"title": "Kit De Accesorios Para Peceras De Hasta 42 Litros.",
+		"description": "El combo incluye: Aireador, Anticloro, Alimento prodac pond, Red, Planta natural elodea, Grava, Manguera, Ventosa, Piedra difusora, Adorno modelo según disponibilidad), 6 placas y Lamina de fondo",
+		"price": 8600,
+		"thumbnail": "img/id9.png",
+		"category": "Acuario",
+		"code": 1295,
+		"stock": 15,
+		"id": 9
+	},
+	{
+		"title": "Combo Plantas Acuáticas - Acuarios Plantados",
+		"description": "Este MEGA combo de plantas acuáticas incluye MUCHAS especies diferentes:ROTALA MEXICANA [2 tallos], HYGROPHILA TIGER [1 tallo], ROTALA MACANDRA [1 tallo], ROTALA ROTUNDIFOLIA [3 tallos], ROTALA COLORATA [1 tallo], SHINNERSIA RIVULARIS [2 tallo], HEMIANTHUS MICRANTHEMOIDES [1 tallo], ROTALA VIETNAM [1 tallo], ROTALA INDICA [2 tallos CHICOS], ROTALA NANJENSHAN [1 tallo]",
+		"price": 3900,
+		"thumbnail": "img/id10.png",
+		"category": "Acuario",
+		"code": 1300,
+		"stock": 30,
+		"id": 10
+	}
+]
